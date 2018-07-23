@@ -1,0 +1,1 @@
+pkg server.js -t node8-win-x86 gp-server.exe
