@@ -7,7 +7,7 @@ A simple bare bones file repository for local networks.
 
 Clone from bitbucket
 
-    git clone git clone https://claytonbez@bitbucket.org/claytonbez/get-put-server.git
+    git clone git clone https://github.com/claytonbez/get-put-server.git
 
 Move files from windows/linux directory to your local drive. Add application to ENVIRONMENT VARIABLES to use/ or run native from directory
 
@@ -19,4 +19,4 @@ Move files from windows/linux directory to your local drive. Add application to 
 
 use the get-put repo for the client that gets and puts directories to the server.
 
-get-put client -> [get-put on BitBucket](https://bitbucket.org/claytonbez/get-put/src/master/ "get-put")
+get-put client -> [get-put-client on GutHub](https://github.com/claytonbez/get-put-client "get-put-client")
